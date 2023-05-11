@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(19,3): error C3861: 'DetourRestoreAfterWith': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(20,3): error C3861: 'DetourTransactionBegin': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(21,3): error C3861: 'DetourUpdateThread': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(22,3): error C3861: 'DetourAttach': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(23,3): error C3861: 'DetourTransactionCommit': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(29,3): error C3861: 'DetourTransactionBegin': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(30,3): error C3861: 'DetourUpdateThread': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(31,3): error C3861: 'DetourDetach': 식별자를 찾을 수 없습니다.
+C:\Users\hansei\source\repos\Dllinjection\Dllinjection\dllmain.cpp(32,3): error C3861: 'DetourTransactionCommit': 식별자를 찾을 수 없습니다.
